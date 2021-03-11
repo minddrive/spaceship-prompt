@@ -40,6 +40,7 @@ fi
 
 if [ -z "$SPACESHIP_PROMPT_ORDER" ]; then
   SPACESHIP_PROMPT_ORDER=(
+    llcreds       # LindenLab AWs credentials section
     time          # Time stampts section
     user          # Username section
     dir           # Current directory section
