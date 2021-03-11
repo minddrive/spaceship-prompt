@@ -7,7 +7,7 @@
 
 # Current version of Spaceship
 # Useful for issue reporting
-export SPACESHIP_VERSION='3.11.2'
+export SPACESHIP_VERSION='3.11.3'
 
 # Common-used variable for new line separator
 NEWLINE='
